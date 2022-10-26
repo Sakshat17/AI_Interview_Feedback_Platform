@@ -29,7 +29,7 @@ mysp=import("my-voice-analysis") </Br>
 p="Walkers" # Audio File title </Br>
 c=r"C:\Users\Shahab\Desktop\Mysp" # Path to the Audio_File directory (Python 3.7) </Br>
 
-** mysp.mysptotal(p,c) ** </Br>
+**mysp.mysptotal(p,c)** </Br>
 * number_ of_syllables 154 </Br>
 * number_of_pauses 22 </Br>
 * rate_of_speech 3 </Br>
