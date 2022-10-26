@@ -24,10 +24,10 @@
 * How to detect long pauses while audio to text conversion </Br>
 
 # Myprosody sample result
-Overview: Function mysptotal(p,c) </Br>
-mysp=import("my-voice-analysis") </Br>
-p="Walkers" # Audio File title </Br>
-c=r"C:\Users\Shahab\Desktop\Mysp" # Path to the Audio_File directory (Python 3.7) </Br>
+Overview: Function **mysptotal(p,c)** </Br>
+_mysp=import("my-voice-analysis")_ </Br>
+_p="Walkers" # Audio File title_ </Br>
+_c=r"C:\Users\Shahab\Desktop\Mysp" # Path to the Audio_File directory_ (Python 3.7) </Br>
 
 **mysp.mysptotal(p,c)** </Br>
 * number_ of_syllables 154 </Br>
