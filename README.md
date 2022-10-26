@@ -26,7 +26,7 @@
 # Myprosody sample result
 Overview: Function **mysptotal(p,c)** </Br>
 _mysp=import("my-voice-analysis")_ </Br>
-_p="Walkers" # Audio File title_ </Br>
+_p="Walkers"_ # Audio File title </Br>
 _c=r"C:\Users\Shahab\Desktop\Mysp" # Path to the Audio_File directory_ (Python 3.7) </Br>
 
 **mysp.mysptotal(p,c)** </Br>
